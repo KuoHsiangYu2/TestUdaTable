@@ -1,0 +1,132 @@
+﻿參考資料.txt
+
+-- 前端CSS --
+
+[筆記] 針對表格使用邊框圓角(table with border-radius)
+https://pjchender.blogspot.com/2015/12/table-with-border-radius.html
+
+padding
+https://developer.mozilla.org/zh-TW/docs/Web/CSS/padding
+
+Day11-HTML元素邊界關係！margin、padding、border
+https://ithelp.ithome.com.tw/articles/10205322
+
+[技術分享] CSS中的多重選擇器（Multiple Selectors）包含空白或逗號
+https://pjchender.blogspot.com/2015/03/cssmultiple-selectorsspace.html
+
+CSS border-style 邊框樣式
+https://www.wibibi.com/info.php?tid=89
+
+CSS滑鼠移上去的圖案
+CSS cursor Property
+https://www.w3schools.com/cssref/pr_class_cursor.asp
+
+What is the mouse down selector in CSS?
+https://stackoverflow.com/questions/16715274/what-is-the-mouse-down-selector-in-css
+
+CSS 按钮
+本章节我们为大家介绍使用 CSS 来制作按钮。
+https://www.runoob.com/css3/css3-buttons.html
+
+HTML button 按鈕邊框樣式與顏色
+https://www.wibibi.com/info.php?tid=438
+
+[教學] CSS3 半透明背景的四種設定方法 (RGBa、HSLa、Opacity、HEX)
+https://www.minwt.com/webdesign-dev/css/21538.html
+
+學習 CSS 版面配置
+https://zh-tw.learnlayout.com/position.html
+
+七月 08, 2015
+CSS position:fixed 固定視窗置中-margin-top ,margin-left 減去元素的高度寬度
+https://www.ucamc.com/e-learning/css/81-css-position-fixed
+
+-- 前端JavaScript --
+
+Element.insertAdjacentElement()
+https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement
+
+PJCHENder
+那些沒告訴你的小細節
+—唯有自己整理過的東西，才是自己的—
+[筆記] 製作可拖曳的元素（HTML5 Drag and Drop API）
+https://pjchender.blogspot.com/2017/08/html5-drag-and-drop-api.html
+
+關於表格內的拖拉問題
+https://ithelp.ithome.com.tw/questions/10194089
+
+SortableJS
+JavaScript library for reorderable drag-and-drop lists
+https://sortablejs.github.io/Sortable/
+
+Sortable is a JavaScript library for reorderable drag-and-drop lists.
+https://github.com/SortableJS/Sortable
+
+HTML <input> maxlength Attribute
+https://www.w3schools.com/tags/att_input_maxlength.asp
+
+HTML <input> size Attribute
+https://www.w3schools.com/tags/att_input_size.asp
+
+
+-- 後端部份 --
+
+INSERT INTO 敘述句 (SQL INSERT INTO Statement)
+https://www.fooish.com/sql/insert-into.html
+
+Java Reflection（反射）簡單範例
+https://matthung0807.blogspot.com/2018/08/java-reflection.html
+
+Call Methods at Runtime Using Java Reflection
+https://www.baeldung.com/java-method-reflection
+
+第 16 章 反射（Reflection）
+https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH16.md#%E7%AC%AC-16-%E7%AB%A0-%E5%8F%8D%E5%B0%84reflection
+
+第 16 章 反射（Reflection） v2
+https://www.bookstack.cn/read/java-se6/docs-ch16.md
+
+Spring注解解释（@Primary、@Qualifier）
+https://blog.csdn.net/u010475041/article/details/52338342
+
+關於異常：This application has no explicit mapping for /error, so you are seeing this as a fallback.
+https://www.itread01.com/content/1544854346.html
+
+解決： Spring Boot報錯 This application has no explicit mapping ... a fallback
+https://www.itread01.com/content/1544552702.html
+
+SpringBoot项目中的favicon.ico图标无法显示的问题
+https://blog.csdn.net/weixin_38657051/article/details/90239766?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
+
+关于Springboot中favicon.ico的显示
+https://blog.csdn.net/qq_39361204/article/details/104738981
+
+@RequestMapping 用法詳解
+https://www.itread01.com/content/1499246416.html
+
+Spring MVC 學習筆記（二）：@RequestMapping用法詳解
+https://www.itread01.com/content/1541911517.html
+
+Spring注解解释（@Primary、@Qualifier）
+https://blog.csdn.net/u010475041/article/details/52338342
+
+Eclipse创建一个Maven Web项目
+https://www.yiibai.com/maven/create-a-maven-web-project-with-eclipse.html
+
+Spring Boot數據庫源（連接數據庫）
+https://www.1ju.org/spring-boot/spring-boot-database-handling
+
+Configuring a Tomcat Connection Pool in Spring Boot
+https://www.baeldung.com/spring-boot-tomcat-connection-pool
+
+常規容器下SpringBootServletInitializer如何實現web.xml作用解析
+https://www.itread01.com/content/1558826404.html
+
+SpringBoot 中的 ServletInitializer
+https://blog.csdn.net/qq_28289405/article/details/81279742
+
+SpringBoot 中的 ServletInitializer類-----------SpringBootServletInitializer
+https://www.twblogs.net/a/5d0358cebd9eee47d34baab7
+
+Spring Boot Ajax實例
+https://www.1ju.org/spring-boot/ajax-example
