@@ -4,16 +4,17 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/css/index.css">
+<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/publicFunction.js"></script>
 <title>index</title>
 </head>
 <body>
-	<button id="addRow" class="addRow" type="button">新增一列</button>
+	<button id="add-row" class="add-row" type="button">新增一列</button>
 	<br />
 	<br />
-	<div class="outerWrapper">
+	<div class="outer-wrapper">
 		<div class="wrapper">
-			<table id="showData" border="1"></table>
+			<table id="show-data" border="1"></table>
 			<br />
 		</div>
 	</div>

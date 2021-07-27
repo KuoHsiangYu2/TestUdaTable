@@ -1,5 +1,7 @@
 "use strict";
 
+console.log("publicFunction.js");
+
 function supportLocalStorage() {
     try {
         return eval("window.localStorage !== undefined");
@@ -126,7 +128,7 @@ if (!String.prototype.includes) {
 function MyStorage(app) {
     this.app = app;
     this.storage = window.localStorage;
-    this.data = JSON.parse(this.storage[this.app] || '{}');
+    this.data = JSON.parse(this.storage[this.app] || "{}");
 }
 
 MyStorage.prototype = {
@@ -143,7 +145,7 @@ MyStorage.prototype = {
     },
     clear: function clear() {
         this.data = null;
-        this.data = JSON.parse('{}');
+        this.data = JSON.parse("{}");
         this.storage[this.app] = JSON.stringify(this.data);
     }
 };

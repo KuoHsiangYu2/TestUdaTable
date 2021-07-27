@@ -2,8 +2,8 @@
 
 console.log('index.js');
 
-let showDataObj = document.getElementById("showData");
-let addRowObj = document.getElementById("addRow");
+let showDataObj = document.getElementById("show-data");
+let addRowObj = document.getElementById("add-row");
 let countRow = 0; /* 計算有幾列 */
 let editList = []; /* 儲存分類清單的陣列 */
 
@@ -167,7 +167,7 @@ addRowObj.addEventListener("click", function () {
         return;
     }
 
-    let lastTrObj = document.querySelector("#showData tr:last-child");
+    let lastTrObj = document.querySelector("#show-data tr:last-child");
     countRow = countRow + 1;
     let newTrObj = createTableRow(String(countRow).toString(), "");
 

@@ -64,14 +64,14 @@ td:last-child {
     margin: 0px;
 }
 
-.outerWrapper {
+.outer-wrapper {
     width: 100%;
     display: flex;
     justify-content: center;
     margin-top: 10px;
 }
 
-.addRow {
+.add-row {
     position: fixed;
     left: 50%;
     margin-left: -130px;
