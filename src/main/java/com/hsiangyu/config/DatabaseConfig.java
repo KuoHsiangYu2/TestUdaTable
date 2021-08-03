@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Primary;
 
 @Configuration
 public class DatabaseConfig {
+
     @Bean(name = "dbProductService")
     @ConfigurationProperties(prefix = "spring.db-product-service")
     @Primary

@@ -25,13 +25,19 @@ td {
 }
 
 /* tr:first-child:hover { */
-    /* 當滑鼠移動到上面時，滑鼠游標不變 */
-    /* cursor: default; */
+
+/* 當滑鼠移動到上面時，滑鼠游標不變 */
+
+/* cursor: default; */
+
 /* } */
 
 /* tr:first-child:active { */
-    /* 當滑鼠移動到上面時，滑鼠游標不變 */
-    /* cursor: default; */
+
+/* 當滑鼠移動到上面時，滑鼠游標不變 */
+
+/* cursor: default; */
+
 /* } */
 
 tr:hover {
@@ -75,9 +81,20 @@ td:last-child {
     position: fixed;
     left: 50%;
     margin-left: -130px;
-    background-color: rgba(255, 255, 255, 0.479);
+    background-color: rgba(255, 255, 255, 1);
     color: black;
     border: 2px solid #4CAF50;
-    width: 260px;
-    height: 40px;
+    width: 256px;
+    height: 36px;
+}
+
+.save-data {
+    position: fixed;
+    right: 50%;
+    margin-right: -512px;
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+    border: 2px solid #4c66af;
+    width: 50px;
+    height: 36px;
 }
